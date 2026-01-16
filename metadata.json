@@ -1,0 +1,7 @@
+{
+  "name": "Spesflore",
+  "description": "Une application de recherche botanique avancée pour identifier et analyser l'appareil végétatif et reproducteur des plantes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
